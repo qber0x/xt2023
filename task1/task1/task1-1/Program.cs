@@ -10,6 +10,7 @@ namespace task1_1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Время ебать чугун!");
         }
     }
 }
